@@ -1,4 +1,4 @@
-# CVX_project
+# CVX project
 Implementation of the Gradient Descent method, in order to solve a convex optimization problem with constraints.
 
 We were given a task to find an optimal minimum point on the function:
